@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod2_les7_task11", "mod2_les7_task11\mod2_les7_task11.csproj", "{8EBFB107-848F-4A0C-B92C-6E086BA6865D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBFB107-848F-4A0C-B92C-6E086BA6865D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBFB107-848F-4A0C-B92C-6E086BA6865D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBFB107-848F-4A0C-B92C-6E086BA6865D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBFB107-848F-4A0C-B92C-6E086BA6865D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B2765B-01C1-4FE7-AA47-BBBD434B6D3B}
+	EndGlobalSection
+EndGlobal
